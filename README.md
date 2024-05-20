@@ -4,6 +4,7 @@ A special thanks to https://github.com/chunkboi/pnr-status this repo that helped
 
 ### Features
 1.Imports into .csv and .txt files.
+<br>
 2.Super fast to grab the details of multiple pnrs at once.
 
 ### Disclaimer
